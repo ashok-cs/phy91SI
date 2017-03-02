@@ -1,0 +1,12 @@
+A docstring is[] provided for each of the functions. Figure out what they’re supposed to do, and then
+implement them! Suggestion: do them in the order listed. Once you’ve written count_freq, try looking
+at the frequencies of some common words, like 'the' and 'hamlet'. (Try comparing 'honour' and
+'happiness'.) If there’s a piece of terminology or math that you’re not sure about, feel free to ask
+a classmate or an instructor.
+While in the last lab you probably wrote code conventionally, using procedures familiar from C and Java
+(like for loops), now you have the tools to implement some similar methods the Pythonic way. You can
+do each of these the “brute force” way, but it’s much more efficient to use Python’s builtins. With these,
+you can write some of these functions in a single line! A question to consider: what tasks can and can’t
+you do with builtins?
+As you work, make sure to save the notebook occasionally. You’ll submit today’s lab next Tuesday in
+class
